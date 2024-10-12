@@ -1,4 +1,4 @@
-# # Finance_bot
+## Finance_bot
 Here we will get the information from Twitter ( X ) and Reddit social networks, clean the received information and then analyzes it using GPT-4o, and generates detailed report. Have a nice day :)
 
 # Features
