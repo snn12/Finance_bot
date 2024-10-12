@@ -34,5 +34,5 @@ Click the "Create app" button
 Note "client_id" (under the name of the application) and "client_secret".
 
 
- [Reddit App Preferences](#https://ssl.reddit.com/prefs/apps) 
+ [Reddit App Preferences](#sshttps://ssl.reddit.com/prefs/apps) 
 in [Section 'Features'](#ssFeatures) 
