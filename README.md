@@ -9,7 +9,12 @@ Here we will get the information from Twitter ( X ) and Reddit social networks, 
 
 ## Installation
 
+1. Clone the repository :
 ```
-git clone https://github.com/vrashad/gpt_finance_assistant.git
-cd gpt_finance_assistant
+git clone https://github.com/snn12/Finance_bot.git
+cd Finance_bot
+```
+2. Install dependencies :
+```
+pip install -r requirements.txt
 ```
