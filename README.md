@@ -20,6 +20,7 @@ pip install -r requirements.txt
 ```
 ## Configuration
 
+
 ### Configuring the Reddit API
 1. Go to the [Reddit App Preferences](https://ssl.reddit.com/prefs/apps) page
 2. Click "Create App" or "Create Another App"
@@ -49,4 +50,18 @@ update the ``config.py`` file on your PC:
 ```
 RAPIDAPI_KEY = 'your_rapidapi_key'
 RAPIDAPI_HOST = 'twitter-api47.p.rapidapi.com'
+```
+
+### Configuring the OpenAI API
+
+1. Register on the [OpenAI](https://platform.openai.com/signup) website
+2. Go to [OpenAI API](https://platform.openai.com/api-keys)
+3. Verify your phone number
+4. Get an API key
+
+update the ``config.py`` file on your PC:
+```
+GPT_API_KEY = 'your_openai_api_key'
+GPT_BASE_URL = 'https://api.openai.com/v1/chat/completions'  # or other URL
+GPT_MODEL = 'gpt-4o'
 ```
