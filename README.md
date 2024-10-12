@@ -29,7 +29,7 @@ pip install -r requirements.txt
    - Redirect URI: http://localhost:8080
 
 Click the "Create app" button
-Note "client_id" (under the name of the application) and "client_secret".
+Note "client_id" (under the "name of the application " (top left) and "client_secret".
 
 
 
