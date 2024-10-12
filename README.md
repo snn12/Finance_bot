@@ -6,3 +6,7 @@ Here we will get the information from Twitter ( X ) and Reddit social networks, 
 * Data filtering and cleaning and validation
 * Market analysis using GPT-4o
 * Creating reports for each ticker and saving the Results in Markdown format
+
+## Installation
+
+``` dawkdhawdp
