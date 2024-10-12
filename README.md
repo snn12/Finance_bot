@@ -29,6 +29,7 @@ pip install -r requirements.txt
    - Redirect URI: http://localhost:8080
 4. Click the "Create app" button
 5. "client_id" (under the "name of the application " (top left) and "client_secret"
+
   
 update the ``config.py`` file on your PC:
 ```
@@ -38,9 +39,10 @@ REDDIT_USER_AGENT = 'your_user_agent_name'
 ```
 
 ### Configuring the Twitter API
-1. Register on the RapidAPI website
-2. Subscribe for Twitter API v2
+1. Register on the [ RapidAPI ](https://rapidapi.com/) website
+2. Subscribe for  [Twitter API v2](https://rapidapi.com/restocked-gAGxip8a_/api/twitter-api47)
 3. Get your API key. You can make 3000 requests per month for free. You can also use the official API : https://developer.x.com/en/products/x-api
+
 
 update the ``config.py`` file on your PC:
 ```
