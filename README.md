@@ -23,12 +23,12 @@ pip install -r requirements.txt
 1. Configuring the Reddit API
 2. Go to the Reddit App Preferences page
 3. Click "Create App" or "Create Another App".
-  Fill in the required information:
-  Name: The name of your application
-  Select App type: "script".
-  Description: A short description of your bot
-  About URL: Can be left blank
-  Redirect URI: http://localhost:8080
+ - Fill in the required information:
+ - Name: The name of your application
+ - Select App type: "script".
+ - Description: A short description of your bot
+ - About URL: Can be left blank
+ - Redirect URI: http://localhost:8080
 
 Click the "Create app" button
 Note "client_id" (under the name of the application) and "client_secret".
