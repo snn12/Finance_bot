@@ -25,9 +25,7 @@ pip install -r requirements.txt
 2. Click "Create App" or "Create Another App"
 3. Fill in the required information:
    - Name: The name of your application
-   - Select App type: "script".
-   - Description: A short description of your bot
-   - About URL: Can be left blank
+   - Select App type: "script"
    - Redirect URI: http://localhost:8080
 
 Click the "Create app" button
