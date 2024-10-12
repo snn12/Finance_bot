@@ -65,3 +65,13 @@ GPT_API_KEY = 'your_openai_api_key'
 GPT_BASE_URL = 'https://api.openai.com/v1/chat/completions'  # or other URL
 GPT_MODEL = 'gpt-4o'
 ```
+
+
+### Launch
+
+Run the following command to run the bot :
+```
+python main.py
+```
+
+The bot will start collecting data from Reddit and Twitter (X), analyze it and generate a report in the ``OUTPUT_FILE_PATH `` specified in ``config.py``
