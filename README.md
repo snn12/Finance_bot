@@ -55,7 +55,7 @@ RAPIDAPI_HOST = 'twitter-api47.p.rapidapi.com'
 ### Configuring the OpenAI API
 
 1. Register on the [OpenAI](https://platform.openai.com/signup) website
-2. Go to [OpenAI API](https://platform.openai.com/api-keys)
+2. Go to [API OpenAI](https://platform.openai.com/api-keys)
 3. Verify your phone number
 4. Get an API key
 
