@@ -27,9 +27,8 @@ pip install -r requirements.txt
    - Name: The name of your application
    - Select App type: "script"
    - Redirect URI: http://localhost:8080
-
-Click the "Create app" button
-Note "client_id" (under the "name of the application " (top left) and "client_secret".
-
+4. Click the "Create app" button
+5. "client_id" (under the "name of the application " (top left) and "client_secret".
+``config.py``  faylını yeniləyin:
 
 
